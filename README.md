@@ -1,3 +1,3 @@
 # DRPrognostication
-diabetic retinopathy prognostication\n
-For the process of publication reviewing
+diabetic retinopathy prognostication;
+for the process of publication reviewing
